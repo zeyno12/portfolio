@@ -8,34 +8,34 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
+    title: "Claradix",
+    url: "https://claradixnext-13-phi.vercel.app/",
+    image: "projects/cla.png",
+  },
+  {
     title: "Webxpertsllc",
     url: "https://webxpertsllc.vercel.app/",
     image: "projects/s.png",
-    description: "Recreating the Atmos Awwwards website with React Three Fiber",
   },
   {
     title: "Avanqard-ups",
     url: "https://avanqard-ups.vercel.app/",
     image: "projects/ss.png",
-    description: "Learn how to bake a 3D model with Blender and use it in r3f",
   },
   {
     title: "Nike-Store",
     url: "https://nike-store-dun-nu.vercel.app/",
     image: "projects/sss.png",
-    description: "Learn how to use ReadyPlayerMe to create a 3D avatar",
   },
   {
     title: "E-conmerce",
     url: "https://react-redux-apps-ax2td5t2z-zeyno12.vercel.app/",
     image: "projects/s2.png",
-    description: "Use React Three Fiber to create a 3D game",
   },
   {
     title: "Avanqart-tekstil",
     url: "https://avanqartekstil-ptscuhqjh-zeyno12.vercel.app/",
     image: "projects/s3.png",
-    description: "Create a loading screen for your r3f projects",
   },
 ];
 
